@@ -14,7 +14,7 @@ function App() {
         >
           Hello from React
         </a>
-        <Weather city="Kyiv"/>
+        <Weather city="Berlin"/>
       </header>
     </div>
   );
