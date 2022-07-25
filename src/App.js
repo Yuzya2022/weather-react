@@ -16,7 +16,7 @@ function App() {
         </a>
         <Weather city="Berlin"/>
       </header>
-      <p> <a href="https://github.com/Yuzya2022/">Open source code</a> by Olga Iuzvyshyna</p>
+      <p> <a href="https://github.com/Yuzya2022/weather-react">Open source code</a> by Olga Iuzvyshyna</p>
     </div>
   );
 }
