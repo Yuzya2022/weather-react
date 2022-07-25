@@ -12,10 +12,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello from React
+          Test React Weather App
         </a>
         <Weather city="Berlin"/>
       </header>
+      <p> <a href="https://github.com/Yuzya2022/">Open source code</a> by Olga Iuzvyshyna</p>
     </div>
   );
 }
